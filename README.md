@@ -1,1 +1,1 @@
-### Automater the creation of PowerPoint presentations for "Bauakten"-Reporting
+### Automates the creation of PowerPoint presentations for "Bauakten"-Reporting
